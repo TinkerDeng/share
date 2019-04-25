@@ -14,7 +14,7 @@
 
 #### Tapable
 
-[Tapable](./docs/test.md)
+[Tapable](./docs/plugin/test.md)
 
 
 
